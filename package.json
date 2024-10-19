@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/animi-odio-rerum-temporibus",
-  "version": "6.13.161",
+  "version": "6.13.162",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -530,5 +530,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/animi-odio-rerum-temporibus/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
